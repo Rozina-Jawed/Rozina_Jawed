@@ -29,12 +29,11 @@ I am a focused **Full Stack Web Developer** dedicated to building clean, functio
 ### 📈 GitHub Status
 
 ![Alishba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_ID) | [Email](mailto:your-email@example.com)
+[GitHub](https://github.com/YOUR_GITHUB_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_ID) | [Email](mailto:your-email@example.com)
 
 > "Building modular solutions for a complex world."
