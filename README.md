@@ -28,7 +28,7 @@ I am a focused **Full Stack Web Developer** dedicated to building clean, functio
 
 ### 📈 GitHub Status
 
-![Alishba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Alishba's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rozina-Jawed&theme=dracula)
 
 ---
 
