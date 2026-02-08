@@ -34,6 +34,10 @@ I am a focused **Full Stack Web Developer** dedicated to building clean, functio
 
 ### 🤝 Let's Connect
 
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_ID) | [Email](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
 
 > "Building modular solutions for a complex world."
